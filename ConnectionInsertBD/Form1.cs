@@ -50,6 +50,7 @@ namespace ConnectionInsertBD
             textBox2.Text = "";
             textBox3.Text = "";
 
+
         }
     }
 }
